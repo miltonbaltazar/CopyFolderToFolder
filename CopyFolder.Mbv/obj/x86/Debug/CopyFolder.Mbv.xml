@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CopyFolder.Mbv
+</name>
+</assembly>
+<members>
+<member name="T:CopyFolder.Mbv.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CopyFolder.Mbv.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CopyFolder.Mbv.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:CopyFolder.Mbv.TimeConvert.ConvertMilliseconds(System.Int32,CopyFolder.Mbv.TimeConvert.ConvertType)">
+ <summary>
+ Obtiene el valor en milisegundo a segundos, minutos u horas
+ </summary>
+ <param name="aTime">numero de minutos, segundos u horas</param>
+ <param name="aType">Establece si el tiempo ingresado esta en segundos, minutos u horas</param>
+ <returns>Obtiene el tiempo en segundos, minutos u horas</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
